@@ -1,6 +1,6 @@
-# TVT-Code: Network Service Computing Node Selection Algorithms
+# TVT-Code
 
-This project implements and compares different algorithms for selecting computing nodes in network services.
+This project implements and compares different algorithms for selecting computing nodes in network services. This work has submitted to the IEEE Transactions on Vehicular Technology, titled ”Shortest Path is Sufficient A Solver for Minimizing Data Delivery and Compute Time over the Computing-Aware Networks”.
 
 ## Implemented Algorithms
 
